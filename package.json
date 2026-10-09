@@ -1,0 +1,10 @@
+{
+  "name": "klaviyo-campaign-export",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=21.7" },
+  "scripts": {
+    "export": "node campaign-export.mjs",
+    "klaviyo": "node read-only.mjs"
+  }
+}

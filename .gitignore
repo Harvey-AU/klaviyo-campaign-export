@@ -1,0 +1,6 @@
+# Per-brand config holds API keys and customer emails
+brands/*
+!brands/.gitkeep
+.env
+node_modules/
+.DS_Store
