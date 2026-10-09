@@ -4,7 +4,7 @@
   "type": "module",
   "engines": { "node": ">=21.7" },
   "scripts": {
-    "export": "node campaign-export.mjs",
+    "campaign": "node run.mjs",
     "klaviyo": "node read-only.mjs"
   }
 }
